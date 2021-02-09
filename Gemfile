@@ -5,7 +5,7 @@ gem 'docker-api', '~> 1.33.2'
 
 group :tester do
   # core
-  gem 'rubyzip',  '~> 1.1', '>= 1.1.7'
+  gem 'rubyzip',  '~> 1.3'
   gem 'minitest', '~> 5.8', '>= 5.8.3'
 
   # engines
